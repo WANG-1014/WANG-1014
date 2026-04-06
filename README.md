@@ -7,6 +7,16 @@
 - 扩大自己的能力边界
 - 不要再偷懒啦！
 
+> “ ai coding 的作用是极大程度的解放我们的能力边界，但是瓶颈仍在我自己身上 ”  
+> “ 万事一定要开个头 ”
+
+
+
+
+
+
+
+
 <!--
 **WANG-1014/WANG-1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
