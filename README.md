@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi, I'm WANG-1014
+
+### 🚀 About Me
+- 学习的动力就是为了自由。  
+具体到工作里面就是遇到问题游刃有余；  
+具体到生活里，是遇事从容不慌，拥有选择的底气。
+- 扩大自己的能力边界
+- 不要再偷懒啦！
 
 <!--
 **WANG-1014/WANG-1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
